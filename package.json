@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "name": "vuepress-jmx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "vuepress introduce": "1. https://www.vuepress.cn/guide/directory-structure.html   2. github发布部署参考: https://github.com/features/actions",
+  "dependencies": {
+    "@vuepress/theme-default": "^1.9.10"
+  }
+}
